@@ -1,0 +1,1 @@
+import{_ as e,p as s,q as c,s as t}from"./framework-aa5c4115.js";const _={},o=t("p",null,"基础css",-1),n=[o];function a(r,l){return s(),c("div",null,n)}const f=e(_,[["render",a],["__file","css-base.html.vue"]]);export{f as default};

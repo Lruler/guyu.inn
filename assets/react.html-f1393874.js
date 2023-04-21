@@ -1,0 +1,1 @@
+import{_ as e,p as t,q as c,s}from"./framework-aa5c4115.js";const _={},o=s("p",null,"React",-1),a=[o];function n(r,l){return t(),c("div",null,a)}const f=e(_,[["render",n],["__file","react.html.vue"]]);export{f as default};

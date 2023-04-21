@@ -1,0 +1,1 @@
+import{_ as e,p as c,q as t,s}from"./framework-aa5c4115.js";const _={},o=s("p",null,"Webpack",-1),a=[o];function n(r,l){return c(),t("div",null,a)}const d=e(_,[["render",n],["__file","webpack.html.vue"]]);export{d as default};

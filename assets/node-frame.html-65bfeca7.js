@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-d6b437bc","path":"/docs/fe/node-frame.html","title":"Node框架","lang":"en-US","frontmatter":{"title":"Node框架"},"headers":[],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"docs/fe/node-frame.md"}');export{e as data};

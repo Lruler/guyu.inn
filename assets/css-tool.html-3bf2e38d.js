@@ -1,0 +1,1 @@
+import{_ as e,p as s,q as o,s as t}from"./framework-aa5c4115.js";const c={},_=t("p",null,"CSS工具",-1),n=[_];function l(r,a){return s(),o("div",null,n)}const f=e(c,[["render",l],["__file","css-tool.html.vue"]]);export{f as default};

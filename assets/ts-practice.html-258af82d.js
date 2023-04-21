@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-d32451b6","path":"/docs/fe/ts-practice.html","title":"Ts应用","lang":"en-US","frontmatter":{"title":"Ts应用"},"headers":[],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"docs/fe/ts-practice.md"}');export{t as data};

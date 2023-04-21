@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-acb80fee","path":"/docs/fe/css-base.html","title":"CSS基础知识","lang":"en-US","frontmatter":{"title":"CSS基础知识"},"headers":[],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"docs/fe/css-base.md"}');export{e as data};

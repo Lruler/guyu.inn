@@ -1,0 +1,1 @@
+import{_ as e,p as s,q as t,s as _}from"./framework-aa5c4115.js";const c={},o=_("p",null,"TS",-1),n=[o];function a(r,l){return s(),t("div",null,n)}const f=e(c,[["render",a],["__file","ts-base.html.vue"]]);export{f as default};

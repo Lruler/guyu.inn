@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7289a722","path":"/docs/fe/js-practice.html","title":"JS实践","lang":"en-US","frontmatter":{"title":"JS实践"},"headers":[],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"filePathRelative":"docs/fe/js-practice.md"}');export{e as data};

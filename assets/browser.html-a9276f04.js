@@ -1,0 +1,1 @@
+import{_ as e,p as s,q as t,s as o}from"./framework-aa5c4115.js";const r={},_=o("p",null,"浏览器内容",-1),c=[_];function n(a,l){return s(),t("div",null,c)}const f=e(r,[["render",n],["__file","browser.html.vue"]]);export{f as default};
